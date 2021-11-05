@@ -11,7 +11,6 @@ There is also a script for indicating Caffeine in [Polybar](https://github.com/p
 * [Font Awesome 5](https://fontawesome.com/download) for Caffeine Indicator in polybar
 <br />
 
-
 ## Using Caffeine Script
 
 You can use the [script](caffeine.sh) to toggle Caffeine or to check if its Enabled or not.
@@ -28,6 +27,7 @@ Script can be executed from terminal or any hotkey daemon(like sxhkd)
 <br />
 
 ## Caffeine Indicator for Polybar
+
 
 For checking the status of caffeine in [Polybar](https://github.com/polybar/polybar)
 
